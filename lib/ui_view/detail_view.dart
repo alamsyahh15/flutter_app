@@ -45,8 +45,8 @@ class _DetailViewState extends State<DetailView> {
 }
 
 class BagianNama extends StatelessWidget {
-  BagianNama({this.nama});
-  final String nama;
+  BagianNama({this.dnama});
+  final String nama
 
   @override
   Widget build(BuildContext context) {
